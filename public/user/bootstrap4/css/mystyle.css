@@ -1,0 +1,17 @@
+.parallax-window {
+	min-height: 600px;
+}
+.bg-dark-black {
+	background: rgba(0,0,0,0.5);
+}
+[class^='imghvr-'] figcaption, [class*=' imghvr-'] figcaption {
+	background: rgba(0,0,0,0.4);
+}
+.list-group{
+    max-height: 455px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}
+
+
